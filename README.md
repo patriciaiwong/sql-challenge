@@ -6,12 +6,12 @@
 
 ## 2. Data Engineering
 
-<img src="images/dataengineering" width="800">
+<img src="images/dataengineering.png" width="800">
 
 ## 3. Data Analysis
  
-<img src="images/dataanalysis1" width="800">
+<img src="images/dataanalysis1.pngdataanalysis1.png" width="800">
 
-<img src="images/dataanalysis2" width="800">
+<img src="images/dataanalysis2.png" width="800">
 
-<img src="images/dataanalysis3" width="800">
+<img src="images/dataanalysis3.png" width="800">
