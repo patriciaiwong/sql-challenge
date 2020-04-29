@@ -10,7 +10,7 @@
 
 ## 3. Data Analysis
  
-<img src="images/dataanalysis1.pngdataanalysis1.png" width="800">
+<img src="images/dataanalysis1.png" width="800">
 
 <img src="images/dataanalysis2.png" width="800">
 
